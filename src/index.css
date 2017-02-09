@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  font-family: "Roboto", Arial;
+  font-weight: 200;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  font-weight: 100;
+}
+
+.container {
+  text-align: left;
+}
+
+.container header {
+  background-color: #333333;
+  overflow: hidden;
+}

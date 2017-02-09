@@ -1,0 +1,4 @@
+--require source-map-support/register
+--compilers js:babel-register,css:test/null-exts.js
+
+src/*.test.js
